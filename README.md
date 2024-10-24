@@ -1,4 +1,4 @@
 Java First project that represent Library abstraction.
 
-// Fidel Altynbaev
+// Fidel Altynbaev <br>
 // Ya ya :D
